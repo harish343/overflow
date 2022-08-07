@@ -7,3 +7,5 @@ https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYU
 
 dsa by love babbar
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+
+https://github.com/machadop1407/React-Search-Bar/blob/main/search-bar-code/src/Components/SearchBar.js
